@@ -22,11 +22,25 @@ img{
   width: 45%;
 }
 
+.pig{
+  float: left;
+  width: 45%;
+}
+
+.lizard{
+  float: right;
+  width: 45%;
+}
+
 .profile{
   text-align: center;
 }
 
 li{
   list-style: none;
-  
+
+}
+
+ul{
+  padding-bottom: 20px;
 }
