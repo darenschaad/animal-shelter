@@ -1,0 +1,32 @@
+.title{
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.name{
+  font-weight: bold;
+}
+
+img{
+  width:auto;
+  height: 330px;
+}
+
+.cat{
+  float: left;
+  width: 45%;
+}
+
+.dog{
+  float: right;
+  width: 45%;
+}
+
+.profile{
+  text-align: center;
+}
+
+li{
+  list-style: none;
+  
+}
